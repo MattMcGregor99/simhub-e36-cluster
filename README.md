@@ -32,7 +32,12 @@ Lamps
 * Fuel Consumption
 * ABS lamp (couldn't find how to turn it off ie a pin for it)
 
+# pics
+![e36 cluster irl](e36Cluster-irl.jpg)
 
+![e36 cluster pcb](e36Cluster-pcb3d.png)
 
+<!--This is an image ![e36 cluster pcb](e36Cluster-pcb3d.png){:height="50" width="50px"}
 
+ This is an image <img src="e36Cluster-pcb3d.png" alt="Alt Text" style="height:40px; width:80px;"> -->
 
